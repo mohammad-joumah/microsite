@@ -1,0 +1,39 @@
+/*body*/
+body{
+    margin: 5%;
+    color:whitesmoke ;
+    font-size: 175%;
+    font-family: 'ZCOOL XiaoWei', serif;
+    background-image: url(../img/sea.gif);
+    background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+   background-attachment: fixed;
+   text-shadow: 2px 1px  rgb(0, 0, 0);  
+}
+div{
+    background-color: rgba(77, 44, 44, 0.2);
+    width: 70%;
+    height: 80%;
+    padding: 2%;
+    border-radius: 10%;
+    position: relative;
+    left: 13%;
+}
+h1 {
+    text-align: center;
+}
+img{
+    width: 10%;
+    height: 8%;
+}
+.dci{
+    position: absolute;
+    top: 0;
+    right: 9%;
+}
+.jc{
+    position: absolute;
+    top: 0;
+    left: 9%;
+}
